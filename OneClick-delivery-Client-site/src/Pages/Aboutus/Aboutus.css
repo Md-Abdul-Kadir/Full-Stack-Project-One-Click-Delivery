@@ -1,0 +1,29 @@
+.top-banner-about{
+   
+   
+    background-image: url(../../images/black2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:400px;
+    
+}
+
+.big-txt-about{
+   
+    padding-top:8%;
+    color:azure;
+    font-size:50px;
+}
+
+.s-pic{
+    width: 100%;
+}
+.margin10{
+    margin-top: 10%;
+    margin-bottom:10%;
+}
+
+.crimsonAbout{
+    color: rgb(192, 19, 54);
+    font-size: 45px;
+}

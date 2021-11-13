@@ -1,0 +1,29 @@
+
+.top-banner-hotline{
+   
+   
+    background-image: url(../../images/black2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:400px;
+    
+}
+.text-deco{
+    text-decoration: none;
+}
+
+
+.big-txt-hotline{
+    padding-top:8%;
+    color:azure;
+    font-size:50px;
+}
+
+.s-pic{
+    width: 100%;
+}
+.margin10{
+    margin-top: 10%;
+    margin-bottom:10%;
+}
+

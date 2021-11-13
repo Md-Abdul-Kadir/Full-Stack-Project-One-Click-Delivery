@@ -1,0 +1,17 @@
+
+
+.top_banner{
+    padding-top: 3%;
+    display: relative;
+    background-image:url(../../images/banner/toopbannner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:1200px;
+}
+
+.bannerInfo{
+    color:rgb(53, 59, 66);
+    padding-top: 6%;
+    font-size: 55px;
+    font-weight: bold;
+}
